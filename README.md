@@ -2,11 +2,12 @@
 # Sistema de Registro de Usuários com PHP OO
 
 Nome: Nathaniel Nicolas Rissi Soares
+Turma: Ciencia da Computação 5° fase Programação III
 
 ## Descrição do Projeto
 
-Sistema de autenticação de usuários desenvolvido em PHP puro utilizando Programação Orientada a Objetos. O sistema permite:
-
+Sistema de autenticação de usuários desenvolvido em PHP puro utilizando Programação Orientada a Objetos.
+O sistema permite:
 - Cadastro de novos usuários (nome, e-mail e senha)
 - Login com validação de credenciais
 - Dashboard protegido por sessão
