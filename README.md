@@ -18,10 +18,11 @@ Sistema de autenticação de usuários desenvolvido em PHP puro utilizando Progr
 - PHP 7.4+
 - Programação Orientada a Objetos
 - Sessões e Cookies
-- Password Hashing (password_hash e password_verify)
+- Análise de Password (hash e verify)
+- JSON para persistência de dados
 
 ## Como Executar Localmente
 
 1. Certifique-se de ter o PHP instalado (versão 7.4 ou superior)
 2. Clone este repositório
-3. Inicie um servidor PHP local na pasta do projeto:
+3. Inicie um servidor PHP local na pasta do projeto através do XAMPP
