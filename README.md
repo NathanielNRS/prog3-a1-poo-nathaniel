@@ -1,7 +1,8 @@
 # prog3-a1-poo-nathaniel
 # Sistema de Registro de Usuários com PHP OO
 
-Nome: Nathaniel Nicolas Rissi Soares
+Nome: Nathaniel Nicolas Rissi Soares.
+
 Turma: Ciencia da Computação 5° fase Programação III
 
 ## Descrição do Projeto
